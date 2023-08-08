@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "473310161227",
+    "project_id": "iiuc-help-desk",
+    "storage_bucket": "iiuc-help-desk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473310161227:android:67c0927a338b8ff3d8e0ce",
+        "android_client_info": {
+          "package_name": "com.mycompany.onlinecourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473310161227-atbhkc64mjol8bv0bk10f1r5o4ls9cv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUbDz1jkKzycx84AviDb1q3Z-2cCoV3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473310161227-3cogml9sr8qukhti0majirhqp203gobs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473310161227-0kb3ee969k850696gsef6dn88b64v7ca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.onlinecourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
